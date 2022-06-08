@@ -20,6 +20,7 @@ class AppConfigUi {
   );
 
   static final ThemeData theme = ThemeData(
+    scaffoldBackgroundColor: Colors.white,
     primaryColor: const Color(0xFF0066B0),
     primaryColorLight: const Color(0xFF219FFF),
     primarySwatch: _primarySwatch,
